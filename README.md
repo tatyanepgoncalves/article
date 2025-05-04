@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git + VS Code
 
 ## 🚀 Como rodar o projeto
-1 - 
+1 - Clone o repositório
 ```bash
 git clone https://github.com/tatyanepgoncalves/article
 ```
